@@ -11,6 +11,7 @@
 /* $(selector).action() 
     selector - html element by name, id, classes, types, attributes, values of attributes, etc. 
     action - what to do with the element */
+    
 $(document).ready( function() {
   //methods code go here
 });
